@@ -124,6 +124,106 @@ AWS     |   Linux  |  Jenkins       | Git           | Docker        | Kubernetes
 98. What is Lambda and how it works?
 99. How will you take backups using Lambda?
 100. Types of storage in AWS?
+101. Difference between S3 & Glacier?
+102. Components of VPC?
+103. Difference between EC2 and ECS?
+104. What is DNS? Uses?
+105. Why you won’t go with EC2 for installing Database? Why RDS?
+106. What is AWS?
+107. What is a cloud?
+108. What is EC2?
+109. What is VPC?
+110. What is AZ?
+111. What is ELB?
+112. What is VPC peering?
+113. What is the aim of VPC peering?
+114. Why use VPC peering, real-time example?
+115. What is SG?
+116. What is cloud front/CDN?
+117. What is a lambda, what is the use of it?
+118. What have you developed using Lambda?
+119. What is automation have you done for with lambda?
+120. What is cloud watch?
+121. What is cloud formation?
+122. S3 lifecycle?
+123. What is the use of the IAM role?
+124. How many subnets assign to the routing table?
+125. What is the static IP?
+126. How will get access to private subnets?
+127. Can you increase the size of root volume without shutdown the instance?
+128. What is ELB? How many types are there?
+129. What is autoscaling?
+130. What is hosted zone and uses of recordset?
+131. How will take up backup for volumes?
+132. How to encrypt the root volume?
+133. How will access AS account?
+134. What is the subnet group in DB?
+135. How do you connect to windows instances?
+136. Port numbers of RDP, SSH, and HTTPS?
+137. What is the difference between EBS, S3, and EFS?
+138. What type of data do you store in s3 and EBS?
+139. Replication s3?
+140. Why use events in cloud watch in AWS?
+141. What is the difference between VPC level security and system level security?
+142. If you lost the pem file then how will you connect to EC2?
+143. What IAM Role and policy?
+144. How will run lambda and where you will configure lambda?
+145. How lambda run on secluding and event-based?
+146. What is cloud watch? Have you configured any custom metrics?
+147. What are the metrics available on your dashboard?
+148. How do you configure CPU Utilization on your dashboard?
+149. How can I attach SSL for the s3 bucket?
+150. S3 bucket having a policy for only read-only but you're having full access for you? Can you
+151. What is CDN?
+152. How will attach policy for IAM users by group or individual?
+153. Have you used any tool for creating customized AMIS?
+154. What is connection draining?
+155. How your ELB shares traffic?
+156. What is auto-scaling?
+157. Types of Load Balancers and example?
+158. What is the run time of Lambda?
+159. What is the memory size of lambda?
+160. How can I run lambda for more time?
+161. By using lambda what are automation you’re performed in your project?
+162. Why you’re not using boto3 for infrastructure provisioning?
+163. What are the modules you used in Lambda?
+164. Have created SNS topic?
+165. In your VPC all IPS are finished you have a requirement for resources how to provision it?
+166. What is access key and secret key?
+167. What is CORS in s3?
+168. What type of ELB you used in the project?
+169. Difference between EBS and NFS?
+170. Different types of storage in S3?
+171. Can you explain how you have used Amazon CloudFront to improve content delivery and performance, including any techniques you have used to set up caching, SSL/TLS, or geo-restriction?
+172. How have you used AWS Identity and Access Management (IAM) to manage access control and permissions for AWS services and resources, including any techniques you have used to set up policies or integrate with other authentication and authorization systems?
+173. Can you explain what AWS Cloud is and how it is used in software development and deployment?
+174. How have you used AWS Cloud to deploy and manage infrastructure, including any techniques you have used to set up virtual servers, databases, and storage?
+175. Can you describe your experience using AWS Cloud to manage and scale applications, including any techniques you have used to set up load balancing, auto-scaling, and fault tolerance?
+176. How have you used AWS Cloud to manage security and compliance, including any techniques you have used to set up network security, access control, and compliance audits?
+177. Can you explain how you have used AWS Cloud to integrate with other tools and services in the development pipeline, such as continuous integration and deployment platforms or artifact repositories?
+178. How have you used AWS Cloud to monitor and troubleshoot applications and infrastructure, including any techniques you have used to set up logging, monitoring, and alerting?
+179. Can you describe your experience using AWS Cloud to manage data and analytics, including any techniques you have used to set up data pipelines, data warehousing, and machine learning?
+180. How have you used AWS Cloud to manage hybrid or multi-cloud environments, including any techniques you have used to set up hybrid architectures, manage data across different clouds, or integrate with on-premise infrastructure?
+181. Can you explain how you have used AWS Cloud to manage cost optimization and billing, including any techniques you have used to set up cost monitoring, budgeting, and optimization?
+182. How have you used AWS Cloud to manage compliance and regulatory requirements, including any techniques you have used to set up compliance audits, implement data protection policies, or manage GDPR requirements?
+183. You have a web application that needs to scale dynamically to handle spikes in traffic. How would you use AWS Cloud to achieve this?
+184. You are tasked with setting up an architecture for a new application that must be highly available and fault-tolerant. How would you go about designing this architecture in AWS Cloud?
+185. Your company has a large amount of data that needs to be stored and analyzed. How would you use AWS Cloud to set up a data warehouse and analysis system?
+186. You are tasked with migrating an existing application to AWS Cloud. What steps would you take to ensure a successful migration?
+187. Your application requires a high level of security and compliance. How would you use AWS Cloud to ensure the security and compliance requirements are met?
+188. You are working with a team that needs to collaborate and share code in a secure and efficient manner. How would you use AWS Cloud to set up a secure code repository and collaboration environment?
+189. You need to implement a disaster recovery plan for your application. How would you use AWS Cloud to set up a disaster recovery solution that meets your needs?
+190. Your application has specific performance requirements. How would you use AWS Cloud to set up a performance monitoring and optimization solution?
+191. You need to set up a system to handle real-time streaming data. How would you use AWS Cloud to set up a real-time data processing and analysis system?
+192. You have a globally distributed user base that requires low-latency access to your application. How would you use AWS Cloud to set up a content delivery network (CDN) to improve performance?
+193. Can you describe your experience with AWS CloudFormation and how you have used it to manage infrastructure as code?
+194. How have you used AWS Lambda to automate tasks and build serverless applications, including any techniques you have used to set up event-driven architecture or manage deployment and scaling?
+195. Can you discuss your experience using Amazon S3 to store and manage object data, including any techniques you have used to set up versioning, access control, or lifecycle policies?
+196. How have you used Amazon EC2 to manage virtual machines and scale applications, including any techniques you have used to manage instance types, security groups, or autoscaling?
+197. Can you explain how you have used Amazon RDS to manage relational databases, including any techniques you have used to manage backups, scaling, or replication?
+198. How have you used Amazon Elastic Load Balancing to distribute traffic across instances and improve application availability, including any techniques you have used to set up health checks or manage cross-zone load balancing?
+199. Can you describe your experience using Amazon VPC to isolate and secure your cloud resources, including any techniques you have used to set up subnets, security groups, or VPN connections?
+200. How have you used Amazon Route 53 to manage DNS and routing for your cloud applications, including any techniques you have used to set up traffic policies or integrate with other AWS services?
 
 # Linux
 
