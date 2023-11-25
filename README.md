@@ -21,6 +21,16 @@ AWS     |   Linux  |  Jenkins       | Git           | Docker        | Kubernetes
 10. What are the Benefits of using DevOps
 11. Why do you want to work here?
 12. Where do you see yourself in 5 years?
+13. How did you hear about the position?
+14. What do you know about our company?
+15. Why should we hire you?
+16. What are your greatest professional strengths?
+17. What is your dream job?
+18. What other companies are you interviewing with?
+19. What type of work environment do you prefer?
+20. What have you done in these years what are tools involved?
+21. Why do we need a DevOps?
+22. 
 
 # AWS
 
@@ -228,16 +238,37 @@ AWS     |   Linux  |  Jenkins       | Git           | Docker        | Kubernetes
 # Linux
 
 # Jenkins
+1. How do you configure the job in Jenkins?
+2. Difference between ant and maven?
+3. Maven lifecycle?
+4. Where do you find errors in Jenkins?
+5. How do you integrate sonar Qube in Jenkins?
 
 # Git
+1. Git Merge and rebase?
+2. Git workflow?
+3. 
 
 # Docker
+1. What is docker file how it works?
+2. What is docker volume?
+3. 
 
 # Kubernetes
 
 # Terraform
 
+# Ansible
+1. How to deploy to 100 servers at a time?
+2. Have you worked on ansible modules?
+3. How do you configure ansible in Jenkins?
+
 # Monitoring
+
+# Bash Scripting
+1. Write a program to count no of times each word present in the string and save it in the
+dictionary?
+2. 
 
 # CICD Pipelines
 
