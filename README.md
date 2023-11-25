@@ -117,7 +117,7 @@ AWS     |   Linux  |  Jenkins       | Git           | Docker        | Kubernetes
 81. Port numbers of RDP, SSH, and HTTPS?
 82. What is the difference between EBS, S3, and EFS?
 83. What type of data do you store in s3 and EBS?
-84. Replication s3?
+84. What is s3 Replication?
 85. Why use events in cloud watch in AWS?
 86. What is the difference between VPC level security and system level security?
 87. If you lost the pem file then how will you connect to EC2? 
@@ -271,7 +271,9 @@ AWS     |   Linux  |  Jenkins       | Git           | Docker        | Kubernetes
 11. How to create a repository in GitHub?
 12. How to push the file in the GitHub flow?
 13. About branching strategies?
-14. 
+14. Difference between GitHub and BitBucket?
+15. Use of git commit and purpose?
+16. 
 
 # Docker
 1. What is docker file how it works?
