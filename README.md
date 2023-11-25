@@ -30,7 +30,9 @@ AWS     |   Linux  |  Jenkins       | Git           | Docker        | Kubernetes
 19. What type of work environment do you prefer?
 20. What have you done in these years what are tools involved?
 21. Why do we need a DevOps?
-22. 
+22. As a DevOps engineer why we use Jira Tool?
+23. What is the use of Jira tool?
+24. 
 
 # AWS
 
@@ -234,11 +236,23 @@ AWS     |   Linux  |  Jenkins       | Git           | Docker        | Kubernetes
 198. How have you used Amazon Elastic Load Balancing to distribute traffic across instances and improve application availability, including any techniques you have used to set up health checks or manage cross-zone load balancing?
 199. Can you describe your experience using Amazon VPC to isolate and secure your cloud resources, including any techniques you have used to set up subnets, security groups, or VPN connections?
 200. How have you used Amazon Route 53 to manage DNS and routing for your cloud applications, including any techniques you have used to set up traffic policies or integrate with other AWS services?
+201. My webservers are running in private subnet I want to route my ELB Traffic to web servers in
+private subnets?
+202. What is NAT Instance/NAT Gateway?
+203. If my RDS is running out of space how will you resolve that without launching other RDS?
+204. 
+
 
 # Linux
 1. In Ubuntu sever what is a public key and private key?
 2. Write a script what you are done daily?
-3. 
+3. #chmod 444 <filename.txt?> in root user? Change the above permissions to 777?
+4. #curl www.google.com is not working and telnet www.google.com is working now?
+5. I am having two instances in public and private subnets, I am pinged from one server to another
+server and getting any response but by using telnet<ip> on port 23 it's working now?
+6. What is SSL? And how it works internally?
+7. Mostly asked on networking, ports, and protocols
+8. What is Lambda and how it works?
 
 # Jenkins
 1. How do you configure the job in Jenkins?
@@ -255,7 +269,12 @@ AWS     |   Linux  |  Jenkins       | Git           | Docker        | Kubernetes
 12. How to create continuous deployment in Jenkins?
 13. Poll SCM?
 14. In Jenkins how to give backup from one server to another server?
-15. 
+15. The flow of SonarQube? why we use it?
+16. What is the use of quality gates in sonarqube?
+17. Suppose we give 30 % quality I want you to define in quality gates?
+18. Why we use pipeline in Jenkins? Flow?
+19. What is Release management due to production?
+20. 
 
 # Git
 1. Differences between git rebase and git merge?
@@ -273,7 +292,14 @@ AWS     |   Linux  |  Jenkins       | Git           | Docker        | Kubernetes
 13. About branching strategies?
 14. Difference between GitHub and BitBucket?
 15. Use of git commit and purpose?
-16. 
+16. Difference between rebasing and merge?
+17. What is Maven repositories?
+18. Dependencies in pom.xml? what dependency have you used in your project?
+19. Jenkins Workflow
+20. How to build a job in Jenkins by using git and maven?
+21. What is the use of maven in Jenkins?
+22. Where can you find the particular error in logs?
+23. 
 
 # Docker
 1. What is docker file how it works?
@@ -285,6 +311,9 @@ AWS     |   Linux  |  Jenkins       | Git           | Docker        | Kubernetes
 # Kubernetes
 
 # Terraform
+1. Why Terraform? why not others?
+2. Can Terraform used for another cloud provisioning?
+3. 
 
 # Ansible
 1. How to deploy to 100 servers at a time?
@@ -293,7 +322,9 @@ AWS     |   Linux  |  Jenkins       | Git           | Docker        | Kubernetes
 4. By using Ansible how to deploy in Jenkins?
 5. What is the use of ansible?
 6. What is configuration management?
-7. 
+7. What are the modules you have used in ansible?
+8. Location and configuration file in ansible?
+9. 
 
 # Monitoring
 
