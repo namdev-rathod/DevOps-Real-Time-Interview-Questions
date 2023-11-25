@@ -148,7 +148,7 @@ AWS     |   Linux  |  Jenkins       | Git           | Docker        | Kubernetes
 112. What is VPC peering?
 113. What is the aim of VPC peering?
 114. Why use VPC peering, real-time example?
-115. What is SG?
+115. What is Security Group?
 116. What is cloud front/CDN?
 117. What is a lambda, what is the use of it?
 118. What have you developed using Lambda?
@@ -236,6 +236,9 @@ AWS     |   Linux  |  Jenkins       | Git           | Docker        | Kubernetes
 200. How have you used Amazon Route 53 to manage DNS and routing for your cloud applications, including any techniques you have used to set up traffic policies or integrate with other AWS services?
 
 # Linux
+1. In Ubuntu sever what is a public key and private key?
+2. Write a script what you are done daily?
+3. 
 
 # Jenkins
 1. How do you configure the job in Jenkins?
@@ -243,16 +246,39 @@ AWS     |   Linux  |  Jenkins       | Git           | Docker        | Kubernetes
 3. Maven lifecycle?
 4. Where do you find errors in Jenkins?
 5. How do you integrate sonar Qube in Jenkins?
+6. In Jenkins how can you find log files?
+7. Jenkins workflow and write a script for this workflow?
+8. Have you worked on maven scripts?
+9. Maven lifecycle?
+10. About pom.xml?
+11. How build job in Jenkins?
+12. How to create continuous deployment in Jenkins?
+13. Poll SCM?
+14. In Jenkins how to give backup from one server to another server?
+15. 
 
 # Git
-1. Git Merge and rebase?
+1. Differences between git rebase and git merge?
 2. Git workflow?
-3. 
+3. What is git init?
+4. What is git clone?
+5. If there is suddenly the file is deleted in git and how do you get it back?
+6. Difference between SVN and GIT?
+7. Difference between ant and maven?
+8. What are the version control tools are using in the present market?
+9. What is git commit
+10. Git push and fetch?
+11. How to create a repository in GitHub?
+12. How to push the file in the GitHub flow?
+13. About branching strategies?
+14. 
 
 # Docker
 1. What is docker file how it works?
 2. What is docker volume?
-3. 
+3. What is the purpose of Docker?
+4. Difference between Docker and ansible?
+5. 
 
 # Kubernetes
 
@@ -262,15 +288,24 @@ AWS     |   Linux  |  Jenkins       | Git           | Docker        | Kubernetes
 1. How to deploy to 100 servers at a time?
 2. Have you worked on ansible modules?
 3. How do you configure ansible in Jenkins?
+4. By using Ansible how to deploy in Jenkins?
+5. What is the use of ansible?
+6. What is configuration management?
+7. 
 
 # Monitoring
 
 # Bash Scripting
 1. Write a program to count no of times each word present in the string and save it in the
 dictionary?
-2. 
+2. Three members have same password one I have to change write a script for this example?
+3. Write a script for how to push the repository and build the job in Jenkins?
+4. What are EC2 and VPC how we create & write a script?
+5. 
 
 # CICD Pipelines
+1. What is CI/CD?
+2. 
 
 # Scenario Based
 
