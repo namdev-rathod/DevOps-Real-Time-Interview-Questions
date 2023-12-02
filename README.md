@@ -32,7 +32,9 @@ AWS     |   Linux  |  Jenkins       | Git           | Docker        | Kubernetes
 21. Why do we need a DevOps?
 22. As a DevOps engineer why we use Jira Tool?
 23. What is the use of Jira tool?
-24. 
+24. Can tell what are issues you faced in your project? How do you resolve it and how do you
+come to know the issues?
+25. 
 
 # AWS
 
@@ -240,7 +242,10 @@ AWS     |   Linux  |  Jenkins       | Git           | Docker        | Kubernetes
 private subnets?
 202. What is NAT Instance/NAT Gateway?
 203. If my RDS is running out of space how will you resolve that without launching other RDS?
-204. 
+204. Difference between Vagrant and AWS?
+205. What is use of AMI?
+206. What is the purpose and use of s3 bucket?
+207. Explain me how do you take backups for RDS?
 
 
 # Linux
@@ -274,7 +279,10 @@ server and getting any response but by using telnet<ip> on port 23 it's working 
 17. Suppose we give 30 % quality I want you to define in quality gates?
 18. Why we use pipeline in Jenkins? Flow?
 19. What is Release management due to production?
-20. 
+20. The flow of SonarQube? why we use it?
+21. What is the use of quality gates in sonarqube?
+22. Suppose we give 30 % quality I want you to define in quality gates?
+23. Jenkins full flow?
 
 # Git
 1. Differences between git rebase and git merge?
@@ -306,7 +314,8 @@ server and getting any response but by using telnet<ip> on port 23 it's working 
 2. What is docker volume?
 3. What is the purpose of Docker?
 4. Difference between Docker and ansible?
-5. 
+5. What is the purpose and use of docker?
+6. 
 
 # Kubernetes
 
