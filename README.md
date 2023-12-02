@@ -344,6 +344,18 @@ server and getting any response but by using telnet<ip> on port 23 it's working 
 16. Difference between rebasing and merge?
 17. What is Maven repositories?
 18. Explain about GIT Branching in your project?
+19. Can you describe your experience with Git and GitHub, and how you have used these tools in your previous roles?
+20. What are some of the key benefits of using Git for version control, and how have you seen these benefits in your work?
+21. Can you discuss your experience using Git to manage changes to code and collaborate with other developers, including any techniques you have used to manage conflicts and merge changes?
+22. How have you used Git branching and tagging strategies to manage releases and versioning, particularly in large code bases or complex projects?
+23. Can you explain how Git hooks work and how you have used them to automate workflows or enforce coding standards?
+24. How have you used GitHub to implement code reviews and ensure code quality, including any techniques you have used to enforce coding standards or identify and fix bugs?
+25. Can you discuss how you have used Git to manage changes to code and collaborate with other developers, including any techniques you have used to manage conflicts and merge changes?
+26. How have you used Git tagging and release management strategies to manage releases and versioning, particularly in large code bases or complex projects?
+27. Can you explain how you have used Git hooks to automate workflows or enforce coding standards, and any techniques you have used to implement custom hooks?
+28. How have you used GitHub to implement continuous integration and continuous deployment workflows, including any techniques you have used to automate testing, building, and deploying code?
+29. Can you describe your experience using Git and GitHub for version control, and how you have used these tools in your previous roles?
+30. What are some of the key benefits of using Git for version control, and how have you seen these benefits in your work?
 
 # Docker
 1. What is docker file how it works?
@@ -366,6 +378,20 @@ server and getting any response but by using telnet<ip> on port 23 it's working 
 4. How many environments your maintaining?
 5. Write Terraform code for an S3 bucket and attach a policy?
 6. Write a Terraform code for EC2?
+7. What is Terraform, and how have you used it in your previous roles?
+8. How does Terraform differ from other infrastructure as code tools like CloudFormation or Ansible?
+9. Can you explain how Terraform manages infrastructure resources across multiple providers, including public cloud, private cloud, and on-premises infrastructure?
+10. How do you ensure that your Terraform code is reusable, modular, and maintainable over time?
+11. Can you describe how you have used Terraform to implement infrastructure as code in a CI/CD pipeline?
+12. Can you discuss how you have implemented version control for your Terraform code using tools like Git?
+13. How have you used Terraform modules to modularize your infrastructure code and reuse code across different environments?
+14. Can you explain how Terraform handles dependencies between resources, and how you have managed these dependencies in your code?
+15. Can you describe your experience using Terraform to manage Kubernetes resources and infrastructure?
+16. How have you used Terraform to implement security and compliance policies, particularly in multi-tenant and regulated environments?
+17. Can you describe your experience with Terraform and how you have used it in your previous roles?
+18. What are some of the key benefits of using Terraform for infrastructure as code, and how have you seen these benefits in your work?
+19. Can you explain how Terraform manages infrastructure resources across multiple providers, including public cloud, private cloud, and on-premises infrastructure?
+20. How do you ensure that your Terraform code is reusable, modular, and maintainable over time?
 
 # Ansible
 1. How to deploy to 100 servers at a time?
@@ -381,6 +407,18 @@ server and getting any response but by using telnet<ip> on port 23 it's working 
 11. Have used any pre-defined modules in your project?
 12. Write a sample boto3 script?
 13. Why ansible?
+14. What is Ansible, and how have you used it in your previous roles?
+15. Can you explain the difference between Ansible and other configuration management tools like Puppet or Chef?
+16. How have you used Ansible to automate the deployment of applications and infrastructure?
+17. Can you describe how you would use Ansible to manage a large, distributed infrastructure?
+18. How have you used Ansible to manage and maintain application configuration files and templates?
+19. Have you used Ansible in conjunction with other tools like Docker or Kubernetes, and if so, how did you integrate them?
+20. Can you explain how Ansible uses inventory files, and what strategies have you used to manage large inventories?
+21. Have you implemented custom Ansible modules or plugins, and if so, can you describe them?
+22. How do you ensure that your Ansible playbooks are idempotent, and what are some techniques you have used to test this?
+23. Can you describe a particularly challenging Ansible deployment or automation project you worked on and how you overcame any obstacles?
+24. How is Ansible different from other configuration management tools like Puppet and Chef?
+25. How does Ansible use YAML files, and what are the benefits of using YAML in Ansible?
 
 # Monitoring
 1. Which monitoring tools are used in Project?
@@ -396,13 +434,22 @@ dictionary?
 2. Three members have same password one I have to change write a script for this example?
 3. Write a script for how to push the repository and build the job in Jenkins?
 4. What are EC2 and VPC how we create & write a script?
-5. 
+5. How have you used Bash shell scripts to implement version control and manage changes to code, including any techniques you have used to automate testing or build processes?
+6. Can you describe your experience using bash shell scripts to automate tasks in your previous roles?
+7. How have you used bash scripting to manage and manipulate files and directories, including any techniques you have used to automate backups or file transfers?
+8. Can you explain how you have used bash scripts to manage processes and system resources, including any techniques you have used to monitor or optimize performance?
+9. How have you used bash scripts to automate repetitive tasks, such as configuring system settings or setting up new users?
+10. Can you describe your experience using bash scripts for system administration tasks, including any techniques you have used to automate server configurations or manage network settings?
+11. How have you used bash scripts to interact with APIs or web services, including any techniques you have used to parse and manipulate data?
+12. Can you discuss your experience using bash scripts for debugging and troubleshooting, including any techniques you have used to diagnose and fix errors or issues?
+13. How have you used bash scripts to implement security controls, including any techniques you have used to manage user permissions or implement firewalls?
+14. Can you explain how you have used bash scripts to automate software installations and updates, including any techniques you have used to manage dependencies or configure application settings?
+15. How have you used bash scripts to integrate with other tools or services, such as version control systems or continuous integration platforms, to automate workflows or tasks?
+
 
 # CICD Pipelines
 1. What is CI/CD?
 2. 
-
-# Scenario Based
 
 # Real-Time Troubleshooting
 
