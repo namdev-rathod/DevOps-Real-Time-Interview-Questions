@@ -34,7 +34,8 @@ AWS     |   Linux  |  Jenkins       | Git           | Docker        | Kubernetes
 23. What is the use of Jira tool?
 24. Can tell what are issues you faced in your project? How do you resolve it and how do you
 come to know the issues?
-25. 
+25. Did you get got any awards?
+26. 
 
 # AWS
 
@@ -246,6 +247,21 @@ private subnets?
 205. What is use of AMI?
 206. What is the purpose and use of s3 bucket?
 207. Explain me how do you take backups for RDS?
+208. Do you any knowledge on setting up BigData cluster?
+209. How does auto scaling work?
+210. What type of ELB you used in the project?
+211. Are you only using cloud watch for monitoring?
+212. What is Lambda?
+213. How does it work?
+214. I want to run my job today at 5 pm how do you configure?
+215. Difference between Classic ELB and Application ELB?
+216. What is autoscaling?
+217. What is the launch configuration in auto scaling?
+218. Different types of storage in S3?
+219. Difference between EBS and NFS?
+220. What are Glacier and Snowball?
+221. What has required one resource in was to communicate with other resources?
+222. 
 
 
 # Linux
@@ -272,7 +288,7 @@ server and getting any response but by using telnet<ip> on port 23 it's working 
 10. About pom.xml?
 11. How build job in Jenkins?
 12. How to create continuous deployment in Jenkins?
-13. Poll SCM?
+13. What is Poll SCM?
 14. In Jenkins how to give backup from one server to another server?
 15. The flow of SonarQube? why we use it?
 16. What is the use of quality gates in sonarqube?
@@ -283,6 +299,18 @@ server and getting any response but by using telnet<ip> on port 23 it's working 
 21. What is the use of quality gates in sonarqube?
 22. Suppose we give 30 % quality I want you to define in quality gates?
 23. Jenkins full flow?
+24. What is the build trigger?
+25. Did you use only SonarQube for static code analysis?
+26. What are the plugins have used in the project?
+27. Dependencies in pom.xml? what dependency have you used in your project?
+28. Jenkins Workflow
+29. How to build a job in Jenkins by using git and maven?
+30. What is the use of maven in Jenkins?
+31. Where can you find the particular error in logs?
+32. Explain Jenkins CI/CD?
+33. What type of deployments do you follow in your project?
+34. Where do you check build logs in Jenkins?
+35. 
 
 # Git
 1. Differences between git rebase and git merge?
@@ -302,12 +330,7 @@ server and getting any response but by using telnet<ip> on port 23 it's working 
 15. Use of git commit and purpose?
 16. Difference between rebasing and merge?
 17. What is Maven repositories?
-18. Dependencies in pom.xml? what dependency have you used in your project?
-19. Jenkins Workflow
-20. How to build a job in Jenkins by using git and maven?
-21. What is the use of maven in Jenkins?
-22. Where can you find the particular error in logs?
-23. 
+18. Explain about GIT Branching in your project?
 
 # Docker
 1. What is docker file how it works?
@@ -322,7 +345,10 @@ server and getting any response but by using telnet<ip> on port 23 it's working 
 # Terraform
 1. Why Terraform? why not others?
 2. Can Terraform used for another cloud provisioning?
-3. 
+3. From where you run Terraform?
+4. How many environments your maintaining?
+5. Write Terraform code for an S3 bucket and attach a policy?
+6. Write a Terraform code for EC2?
 
 # Ansible
 1. How to deploy to 100 servers at a time?
@@ -333,7 +359,11 @@ server and getting any response but by using telnet<ip> on port 23 it's working 
 6. What is configuration management?
 7. What are the modules you have used in ansible?
 8. Location and configuration file in ansible?
-9. 
+9. Write a sample playbook?
+10. What is the ansible modules?
+11. Have used any pre-defined modules in your project?
+12. Write a sample boto3 script?
+13. Why ansible?
 
 # Monitoring
 
