@@ -35,7 +35,6 @@ AWS     |   Linux  |  Jenkins       | Git           | Docker        | Kubernetes
 24. Can tell what are issues you faced in your project? How do you resolve it and how do you
 come to know the issues?
 25. Did you get got any awards?
-26. 
 
 # AWS
 
@@ -261,7 +260,6 @@ private subnets?
 219. Difference between EBS and NFS?
 220. What are Glacier and Snowball?
 221. What has required one resource in was to communicate with other resources?
-222. 
 
 
 # Linux
@@ -310,7 +308,22 @@ server and getting any response but by using telnet<ip> on port 23 it's working 
 32. Explain Jenkins CI/CD?
 33. What type of deployments do you follow in your project?
 34. Where do you check build logs in Jenkins?
-35. 
+35. What is the difference between a Jenkinsfile and a pipeline script?
+36. How do you create a pipeline in Jenkins?
+37. How can you schedule a build in Jenkins?
+38. What is the difference between a freestyle project and a pipeline in Jenkins?
+39. How do you create a backup of Jenkins?
+40. How to recover crashed jenkins master?
+41. How to configure jenkins master-slave architecture
+42. What are some common plugins used in Jenkins?
+43. How do you install Jenkins and configure a Jenkins job?
+44. What are some of the key features of Jenkins?
+45. How do you integrate Jenkins with other tools and technologies?
+46. What is a Jenkins pipeline and how do you create one?
+47. How do you secure your Jenkins instance?
+48. How do you troubleshoot issues with Jenkins builds?
+49. What are some best practices for using Jenkins?
+50. How do you configure Jenkins agents?
 
 # Git
 1. Differences between git rebase and git merge?
@@ -338,7 +351,11 @@ server and getting any response but by using telnet<ip> on port 23 it's working 
 3. What is the purpose of Docker?
 4. Difference between Docker and ansible?
 5. What is the purpose and use of docker?
-6. 
+6. How to write docker file?
+7. Explain any 5 docker commands?
+8. Explaion about COPY and ADD options
+9. Explain about ENTRYPOINT
+10. Docker file structure ?
 
 # Kubernetes
 
@@ -366,6 +383,12 @@ server and getting any response but by using telnet<ip> on port 23 it's working 
 13. Why ansible?
 
 # Monitoring
+1. Which monitoring tools are used in Project?
+2. How grafana monitoring works
+3. Explain about promethous
+4. How to export CloudWatch Logs to Grafana
+5. What is ELK?
+6. 
 
 # Bash Scripting
 1. Write a program to count no of times each word present in the string and save it in the
